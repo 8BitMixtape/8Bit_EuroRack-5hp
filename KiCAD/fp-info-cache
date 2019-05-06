@@ -1,4 +1,4 @@
-1572264134438907
+1573821440814907
 8Bit-MOJ-MIKRO-Kaseta
 9V_BARREL_JACK
 DC Barrel Jack
@@ -2036,6 +2036,13 @@ MOUSEBITE1mm
 0
 0
 0
+8Bit_Eurorack
+Pin_Header_Angled_2x05_Pitch2.54mm_with_space_for_con
+Through hole angled pin header, 2x05, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x05 2.54mm double row
+0
+10
+10
 8Bit_Eurorack
 PJ301M-12
 
@@ -51443,16 +51450,16 @@ SparkFun-Connectors
 40
 40
 SparkFun-Connectors
-2X3
-
-
+2X03
+PIN HEADER
+PIN HEADER
 0
 6
 6
 SparkFun-Connectors
-2X03
-PIN HEADER
-PIN HEADER
+2X3
+
+
 0
 6
 6
