@@ -1,4 +1,4 @@
-1573821440814907
+1576937004042907
 8Bit-MOJ-MIKRO-Kaseta
 9V_BARREL_JACK
 DC Barrel Jack
@@ -2051,6 +2051,13 @@ PJ301M-12
 3
 3
 8Bit_Eurorack
+PJ301M-12_stahl
+
+
+0
+3
+3
+8Bit_Eurorack
 Potentiometer_backPads_noHole
 Potentiometer, horizontally mounted, mounted from below, Omeg PC16PU, Omeg PC16PU, Omeg PC16PU, Vishay/Spectrol 248GJ/249GJ Single, Vishay/Spectrol 248GJ/249GJ Single, Vishay/Spectrol 248GJ/249GJ Single, Vishay/Spectrol 248GH/249GH Single, Vishay/Spectrol 148/149 Single, Vishay/Spectrol 148/149 Single, Vishay/Spectrol 148/149 Single, Vishay/Spectrol 148A/149A Single with mounting plates, Vishay/Spectrol 148/149 Double, Vishay/Spectrol 148A/149A Double with mounting plates, Piher PC-16 Single, Piher PC-16 Single, Piher PC-16 Single, Piher PC-16SV Single, Piher PC-16 Double, Piher PC-16 Triple, Piher T16H Single, Piher T16L Single, http://www.piher-nacesa.com/pdf/22-T16v03.pdf
 Potentiometer horizontal mounted from below lower-side  Omeg PC16PU  Omeg PC16PU  Omeg PC16PU  Vishay/Spectrol 248GJ/249GJ Single  Vishay/Spectrol 248GJ/249GJ Single  Vishay/Spectrol 248GJ/249GJ Single  Vishay/Spectrol 248GH/249GH Single  Vishay/Spectrol 148/149 Single  Vishay/Spectrol 148/149 Single  Vishay/Spectrol 148/149 Single  Vishay/Spectrol 148A/149A Single with mounting plates  Vishay/Spectrol 148/149 Double  Vishay/Spectrol 148A/149A Double with mounting plates  Piher PC-16 Single  Piher PC-16 Single  Piher PC-16 Single  Piher PC-16SV Single  Piher PC-16 Double  Piher PC-16 Triple  Piher T16H Single  Piher T16L Single
@@ -2071,6 +2078,13 @@ Push_SWITCH_hole
 0
 3
 2
+8Bit_Eurorack
+RD901F-ALPHA-POT
+
+
+0
+5
+3
 8Bit_Eurorack
 RGBLED10mm
 
@@ -51450,16 +51464,16 @@ SparkFun-Connectors
 40
 40
 SparkFun-Connectors
-2X03
-PIN HEADER
-PIN HEADER
+2X3
+
+
 0
 6
 6
 SparkFun-Connectors
-2X3
-
-
+2X03
+PIN HEADER
+PIN HEADER
 0
 6
 6
